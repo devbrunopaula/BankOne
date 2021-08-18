@@ -1,10 +1,8 @@
-# BankOne API application
+# BankOne API 
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
+1. Authentication
+2. CORS
+3. MySQL
 4. Lucid ORM
 5. Migrations and seeds
 
